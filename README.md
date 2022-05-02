@@ -8,7 +8,7 @@ This calculator is simple with an easy code to help novices learn how to create 
 If you use the executable "SimpleJavaCalculator.jar" file and that doesn't work, you can type `java -jar /your_calculator_directory/SimpleJavaCalculator.jar` in your terminal.
 
 
-![Example: Java Calculator](Screenshots/screenshot.png)
+![Example: Java Calculator](Screenshots/screenshot.png) #%$#$&^%$YFDKHJVHJ
 
 **You might also like my [Simple Java Text Editor](https://github.com/pH-7/Simple-Java-Text-Editor).**
 
